@@ -5,6 +5,14 @@
 - Projeto Integrador: Objetivo em desenvolver um projeto interdisciplnar entre as disciplinas vigentes no semestre cursado.
 - Materiais agrupados nas pastas da branch main.
 
+<h4>Integrantes</h4>
+
+- [ALICE VITÓRIA ALVES](https://github.com/alicevalves?tab=repositories): Criação do Script do Banco de Dados. (Banco de Dados)
+- [FABRICIA GOMES PEREIRA](https://github.com/FabriciaGomes): Criação dos Diagramas do projeto. (Engenharia de Software II)
+- [LUCAS MARQUES ROMERA](https://github.com/lucasromera): Criação das Planilhas de Gestão de Custos. (Gestão e Governança de TI)
+- [MATEUS MARQUES FRAHM](https://github.com/Matthew2079): Desenvolvimento da aplicação em JAVA. (Programação Orientada à Objetos)
+
+
 
 <h2>Descrição</h2>
 
@@ -23,14 +31,14 @@
 - Utilizado o [JUDE](https://sourceforge.net/projects/jude/) para criação dos diagramas relacionados a desenvolvimento como: Diagrama de Caso de Uso, Diagrama de classes entre outros.
 
 
-<h3>Executado conforme Cronograma disposto<h/3>
-<br></br>
+<h3>Executado conforme Cronograma disposto</h3>
 
+<br></br>
 ![Material_de_PI](https://user-images.githubusercontent.com/85805420/172220502-062418e0-0872-4696-8dd6-9222ed4df81f.JPG)
 
-<h3>Tela Inicial do Projeto Feito em JAVA pela IDE do Eclipse<h/3>
-<br></br>
+<h3>Tela Inicial do Projeto Feito em JAVA pela IDE do Eclipse</h3>
 
+<br></br>
 ![Tela 2 - TELA INICIAL](https://user-images.githubusercontent.com/85805420/172223599-720207ba-1751-4faf-8b88-b544f11746c4.JPG)
 
 ## Links
